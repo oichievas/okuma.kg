@@ -329,7 +329,7 @@ $(function(){
     player = new YT.Player('video_blog_iframe', {
       height: '360',
       width: '640',
-      videoId: '6p0VM-yUpGk',
+      videoId: 'ppmhARFXb-Y',
       playerVars : {
         autoplay: 1,
         rel: 0,
